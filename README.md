@@ -1,6 +1,8 @@
 # Generic trivial utils collection
 
 [![CircleCI](https://circleci.com/gh/gomth/utils/tree/main.svg?style=svg)](https://circleci.com/gh/gomth/utils/tree/main)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/715d6cdb76444f3999ba394513c6708d)](https://www.codacy.com/gh/gomth/utils/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomth/utils&amp;utm_campaign=Badge_Grade)
+[![codebeat badge](https://codebeat.co/badges/80b9253b-9e7d-4d25-8a30-e09e4071be1c)](https://codebeat.co/projects/github-com-gomth-utils-main)
 [![Coverage Status](https://coveralls.io/repos/github/gomth/utils/badge.svg?branch=main)](https://coveralls.io/github/gomth/utils?branch=main)
 
 ##### Package contents:
